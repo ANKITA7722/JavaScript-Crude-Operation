@@ -1,0 +1,33 @@
+{
+
+    "employee":[
+        {
+            "id":1,
+            "emplyee":1,
+            "name":"ankita",
+            "city":"waghoda",
+            "salary":35000
+        },
+        {
+            "id":2,
+            "emplyee":2,
+            "name":"gauri",
+            "city":"pandhurna",
+            "salary":25000
+        },
+        {
+            "id":3,
+            "emplyee":3,
+            "name":"khushi",
+            "city":"ghoti",
+            "salary":45000
+        },
+        {
+            "id":4,
+            "emplyee":4,
+            "name":"ansika",
+            "city":"",
+            "salary":45000
+        }
+    ]
+}
