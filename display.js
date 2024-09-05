@@ -9,8 +9,6 @@ async function dataShow(){
     <th>city</th>
     </tr>`;
 
-    
-
 let url = "http://localhost:3000/employee";
 let myobj = await fetch(url);
 console.log(myobj);
@@ -32,4 +30,5 @@ let mydata = await myobj.json();
     mytable += `</table>`;
     document.getElementById("demo").innerHTML = mytable;
 }
+
 dataShow();
