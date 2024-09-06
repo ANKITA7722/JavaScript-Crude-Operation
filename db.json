@@ -1,33 +1,39 @@
 {
-
-    "employee":[
-        {
-            "id":1,
-            "employee":1,
-            "name":"ankita",
-            "city":"waghoda",
-            "salary":35000
-        },
-        {
-            "id":2,
-            "employee":2,
-            "name":"gauri",
-            "city":"pandhurna",
-            "salary":25000
-        },
-        {
-            "id":3,
-            "employee":3,
-            "name":"khushi",
-            "city":"ghoti",
-            "salary":45000
-        },
-        {
-            "id":4,
-            "employee":4,
-            "name":"ansika",
-            "city":"nagpur",
-            "salary":45000
-        }
-    ]
+  "employees": [
+    {
+      "id": "1",
+      "employee": 1,
+      "name": "ankita",
+      "city": "waghoda",
+      "salary": 35000
+    },
+    {
+      "id": "2",
+      "employee": 2,
+      "name": "gauri",
+      "city": "pandhurna",
+      "salary": 25000
+    },
+    {
+      "id": "3",
+      "employee": 3,
+      "name": "khushi",
+      "city": "ghoti",
+      "salary": 45000
+    },
+    {
+      "id": "4",
+      "employee": 4,
+      "name": "ansika",
+      "city": "nagpur",
+      "salary": 45000
+    },
+    {
+      "id": "7a60",
+      "employeeno": "12",
+      "name": "Ankita",
+      "city": "Bhopal",
+      "salary": "6757"
+    }
+  ]
 }
